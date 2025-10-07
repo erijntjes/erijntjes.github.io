@@ -1,0 +1,29 @@
+---
+title: "Ein Lehramtsstudent ärgert sich über die Anmeldung"
+authors:
+- admin
+date: "2023-11-13T00:00:00Z"
+
+publishDate: "2023-11-13T00:00:00Z"
+
+publication_types: ["article-journal"]
+
+publication: "Frankfurter Allgemeine Zeitung"
+publication_short: ""
+
+tags:
+- 
+featured: false
+
+# hugoblox:
+#   ids:
+#     arxiv: 1512.04133v1
+
+links:
+  - type: source
+    url: "https://www.faz.net/aktuell/rhein-main/auf-ein-wort-ein-lehramtsstudent-aergert-sich-ueber-die-anmeldung-19311654.html"
+
+
+projects: []
+slides: ""
+---

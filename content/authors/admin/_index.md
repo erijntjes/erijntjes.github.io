@@ -1,136 +1,138 @@
 ---
 # Display name
-title: Alex Johnson
+title: Elisa Rijntjes-Hassouraki
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ~
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Elisa
+last_name: Rijntjes-Hassouraki
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ~
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ~
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Recent Gradutate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University College London
+    url: ~
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:rihas2@t-online.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/elisa-rijntjes/
+
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Postcolonial Studies
+  - Migration Studies
+  - Media Studies
+  - Cultural Theory
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Modern European Studies
+    institution: University College London
+    date_start: 2024-09-23
+    date_end: 2025-09-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Focus on EU politics and EU history. Thesis on the media representation of the EU Covid-19 Recovery Fund in the Dutch and Greek media.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      url: 'https://drive.google.com/file/d/1s1qnTZ6vKlFJZG-NBV3RFEZ9phWn0czF/view?usp=sharing'
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: Culture and History
+    institution: University College Freiburg
+    date_start: 2019-10-01
+    date_end: 2024-07-01
     summary: |
-      GPA: 3.9/4.0
+      German GPA: __1.3/5.0 (Distinction)__
 
-      Minored in Mathematics. President of AI Club.
+      Within the programme Liberal Arts and Sciences (LAS), I majored in Culture and History on media theory, postcolonial history and EU governance.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: PR Officer (Intern)
+    company_name: ARTE, Strasbourg, France
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2024-04-01
+    date_end: 2024-07-01
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Responsible for the weekly newsletter for journalists in German speaking countries, writing articles for the website, SEO responsibilities, promoting ARTE events, writing and editing press portfolios and media kits for journalists.
+
+  - position: Journalist (Intern)
+    company_name: Frankfurter Allgemeine Zeitung, Frankfurt, Germany
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2023-10-01
+    date_end: 2024-01-01
+    summary: |2-
+      Responsible for the weekly newsletter for journalists in German speaking countries, writing articles for the ARTE website, SEO responsibilities, promoting ARTE events, writing and editing press portfolios and media kits for journalists.
+
+  - position: Journalist (Intern)
+    company_name: Südwestrundfunk, Freiburg, Germany
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: 2022-09-01
+    summary: |2-
+      Reporter, writing articles, creating TV programmes and radio podcasts (multimedia journalism)
+  
+  - position: PR Officer (Intern)
+    company_name: University Hospital Freiburg, Freiburg, Germany
+    company_logo: ''
+    date_start: 2022-02-01
+    date_end: 2022-03-01
+    summary: |2-
+      Managing the clinic's website and social media channels, writing and editing medical articles.
+
+
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ''
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ''
+#         percent: 70
+#         icon: book-open
 
 languages:
   - name: English
@@ -166,4 +168,13 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Elisa Rijntjes-Hassouraki is a journalist with a background in history and political studies. She graduated from University College London with a Master’s in Modern European Studies and enjoys writing about topics related to the European Union (EU), culture or migration. Outside of work, she enjoys dancing and teaching ballet or playing the piano.
+
+__Languages:__
+- Greek (Native)
+- Dutch (Native)
+- German (Native)
+- English (C2)
+- French (C1)
+- Spanish (B1)
+
