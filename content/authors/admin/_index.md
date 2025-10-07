@@ -87,8 +87,8 @@ work:
     date_start: 2023-10-01
     date_end: 2024-01-01
     summary: |2-
-      Responsible for the weekly newsletter for journalists in German speaking countries, writing articles for the ARTE website, SEO responsibilities, promoting ARTE events, writing and editing press portfolios and media kits for journalists.
-
+      Reporter, writing and editing newspaper articles. Actively involved in the national and international newsroom, SEO responsibilities. Responsible for the weekly column of student interviews.
+      
   - position: Journalist (Intern)
     company_name: Südwestrundfunk, Freiburg, Germany
     company_logo: ''
