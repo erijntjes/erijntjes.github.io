@@ -52,7 +52,8 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Highlighted Publications
+      count: 0
       filters:
         folders:
           - publications
