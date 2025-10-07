@@ -62,6 +62,15 @@ education:
       German GPA: __1.3/5.0 (Distinction)__
 
       Within the programme Liberal Arts and Sciences (LAS), I majored in Culture and History on media theory, postcolonial history and EU governance.
+  
+  - area: Intercultural Communication & Journalism (Erasmus)
+    institution: University College Utrecht
+    date_start: 2021-08-01
+    date_end: 2021-11-01
+    summary: |
+      GPA: __3.75 (Distinction)__
+
+      During my Erasmus exchange in the Netherlands I focused on International Communication and Journalism studies, as well as Museum Studies and Literature seminars.
 
 work:
   - position: PR Officer (Intern)
