@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rihas2@t-online.de'
+    url: 'mailto:elisa.rijntjes@outlook.com'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/elisa-rijntjes/
@@ -180,10 +180,10 @@ awards:
 Elisa Rijntjes-Hassouraki is a journalist with a background in history and political studies. She graduated from University College London with a Master’s in Modern European Studies and enjoys writing about topics related to the European Union (EU), culture or migration. Outside of work, she enjoys dancing and teaching ballet or playing the piano.
 
 __Languages:__
+
 - Greek (Native)
 - Dutch (Native)
 - German (Native)
 - English (C2)
 - French (C1)
 - Spanish (B1)
-
