@@ -49,6 +49,8 @@ education:
     date_start: 2024-09-23
     date_end: 2025-09-01
     summary: |
+      Grade: __Distinction (1st)__
+
       Focus on EU politics and EU history. Thesis on the media representation of the EU Covid-19 Recovery Fund in the Dutch and Greek media.
     button:
       text: 'Read Thesis'
@@ -177,7 +179,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Elisa Rijntjes-Hassouraki is a journalist with a background in history and political studies. She graduated from University College London with a Master’s in Modern European Studies and enjoys writing about topics related to the European Union (EU), culture or migration. Outside of work, she enjoys dancing and teaching ballet or playing the piano.
+Elisa Rijntjes-Hassouraki is a journalist with a background in history and political studies. She graduated with distinction from University College London with a Master’s in Modern European Studies and enjoys writing about topics related to the European Union (EU), culture or migration. Outside of work, she enjoys dancing and teaching ballet or playing the piano.
 
 __Languages:__
 
