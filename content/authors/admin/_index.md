@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Recent Gradutate
+role: Recent Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
