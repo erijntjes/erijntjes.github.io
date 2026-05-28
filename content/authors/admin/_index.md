@@ -20,11 +20,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Recent Graduate
+role: Trainee
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University College London
+  - name: Delegation of the European Union to the OECD and UNESCO
     url: ~
 
 # Social network links
@@ -75,6 +75,18 @@ education:
       During my Erasmus exchange in the Netherlands I focused on International Communication and Journalism studies, as well as Museum Studies and Literature seminars.
 
 work:
+  - position: Trainee to the Head of Delegation (H.E. Ms Christina Kokkinakis)
+    company_name: Delegation of the European Union to the OECD and UNESCO
+    company_logo: ''
+    date_start: 2026-03-16
+    date_end: 2026-08-01
+    summary: |2-
+      - Supporting the work of the European External Action Service in multilateral diplomacy.
+      - Drafting analytical reports and briefings for EU Headquarters in Brussels.
+      - Assisting with EU communication and public diplomacy activities.
+      - Coordinating meetings of EU Member States' Heads of Missions at the OECD and at UNESCO.
+      - Monitoring policy developments within UNESCO and the OECD.
+
   - position: PR Officer (Intern)
     company_name: ARTE, Strasbourg, France
     company_logo: ''
