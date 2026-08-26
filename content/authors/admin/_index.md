@@ -20,11 +20,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Trainee
+role: Head of Trainees 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Delegation of the European Union to the OECD and UNESCO
+  - name: EU Delegation to the OECD and Unesco
     url: ~
 
 # Social network links
@@ -84,8 +84,7 @@ work:
       - Supporting the work of the European External Action Service in multilateral diplomacy.
       - Drafting analytical reports and briefings for EU Headquarters in Brussels.
       - Assisting with EU communication and public diplomacy activities.
-      - Coordinating meetings of EU Member States' Heads of Missions at the OECD and at UNESCO.
-      - Monitoring policy developments within UNESCO and the OECD.
+      - Coordinating meetings of EU Member States' Heads of Missions at the OECD and at UNESCO. • Monitoring policy developments within UNESCO and the OECD.
 
   - position: PR Officer (Intern)
     company_name: ARTE, Strasbourg, France
@@ -191,7 +190,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Elisa Rijntjes-Hassouraki is a journalist with a background in history and political studies. She graduated with distinction from University College London with a Master’s in Modern European Studies and enjoys writing about topics related to the European Union (EU), culture or migration. Outside of work, she enjoys dancing and teaching ballet or playing the piano.
+Early-career policy professional with experience in EU diplomacy, multilateral cooperation, and policy analysis. Recently served as Trainee to the Ambassador and Head of the EU Delegation to the OECD and UNESCO, contributing to EU coordination and diplomatic reporting in multilateral settings. Strong background in media analysis and communication, with expertise in migration, education, European affairs, and cultural policy developed through academic and journalistic experience..
 
 __Languages:__
 
