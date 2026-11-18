@@ -190,7 +190,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Early-career policy professional with experience in EU diplomacy, multilateral cooperation, and policy analysis. Recently served as Trainee to the Ambassador and Head of the EU Delegation to the OECD and UNESCO, contributing to EU coordination and diplomatic reporting in multilateral settings. Strong background in media analysis and communication, with expertise in migration, education, European affairs, and cultural policy developed through academic and journalistic experience..
+Early-career policy professional with experience in EU diplomacy, multilateral cooperation, and policy analysis. Recently served as Trainee to the Ambassador and Head of the EU Delegation to the OECD and UNESCO, contributing to EU coordination and diplomatic reporting in multilateral settings. Strong background in media analysis and communication, with expertise in migration, education, European affairs, and cultural policy developed through academic and journalistic experience.
 
 __Languages:__
 

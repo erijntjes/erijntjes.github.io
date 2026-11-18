@@ -1,0 +1,15 @@
+# Social sharing links shown at the bottom of blog posts
+# Overrides the Hugo Blox theme default (X, Facebook and WhatsApp removed)
+# Docs: https://docs.hugoblox.com/reference/page-sharer/
+
+links:
+  - id: email
+    url: 'mailto:elisa.rijntjes@outlook.com?subject={title}&body={url}'
+    title: Email
+    icon: hero/at-symbol
+    enable: true
+  - id: linkedin
+    url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
+    title: LinkedIn
+    icon: brands/linkedin
+    enable: true

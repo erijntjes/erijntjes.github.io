@@ -1,0 +1,45 @@
+---
+title: 'A Call for Unity with a Grim Outlook: The EPC Controversy'
+summary: The European Political Community was meant to display European unity against Russia. Four years on, is it anything more than a symbolic duplicate of formats that already exist?
+date: 2026-11-18
+
+authors:
+  - admin
+
+tags:
+  - European Political Community
+  - EU Foreign Policy
+  - CFSP
+  - Ukraine
+---
+
+Imagine you enter a room and you see the President of the European Council, António Costa, addressing his audience. In the audience, you see Ukrainian President Zelenskyy; several EU heads of state, such as French President Macron and German Chancellor Merz; the President of the European Commission, von der Leyen; the British Prime Minister (PM), Burnham; the Canadian PM, Carney; and NATO's Secretary General (SG), Rutte. Which meeting would you guess you just popped into? Perhaps some EU meeting on foreign and security policy? No — but then what are NATO's SG and Canada's PM doing in the room? Perhaps some NATO or UN meeting on Ukraine, then? No, all wrong. You actually just walked into the EPC meeting in Dublin on November 12th, 2026.
+
+EPC stands for European Political Community, in case you were wondering.
+Co-chairing the summit with Ireland's head of government Micheál Martin, Costa described the security of the European continent as a "collective responsibility", and said that the meeting should focus on "working together with partners for peace in Ukraine." Further topics discussed among leaders included competitiveness, AI and energy prices.
+
+## Initial Enthusiasm Turns Into Disappointment
+
+But what is the EPC, and how come leaders such as the Canadian PM, the British PM, several EU candidate countries, or NATO's SG attended?
+The first EPC meeting, launched by French President Emmanuel Macron, took place in 2022, right after Russia's invasion of Ukraine. Macron aimed at establishing a format bringing together not only EU member states, but also like-minded countries outside the EU. It was an attempt to display unity — and a geopolitical front against Russia.
+
+However, displaying unity was easier said than done. Back in 2023 already, the Granada EPC summit faced strong criticism due to the high number of disagreements and conflicts between leaders. Some refused to meet with each other; some did not even attend. As a result, the final press conference had to be cancelled. Then, the 2024 EPC in Budapest produced no outcomes or agreements either. This was all the more disappointing since the EPC is purely informal and none of its decisions are binding. But it seems like even this bar was too high.
+
+This lack of concrete outcomes is not surprising when considering that not all participating countries are convinced of the EPC's usefulness. France sees the EPC's potential in the fact that it brings like-minded countries together, giving the EU and its partners a stronger voice in world politics. In contrast, especially after the 2025 EPC summit in Copenhagen, policy analysts observed that essential countries such as Germany have only participated in the summits reluctantly and without much enthusiasm. Under these circumstances, displaying unity is certainly difficult.
+
+## Confusing Duplication
+
+And perhaps Germany has a point. Perhaps what the EU needs is not another symbolic summit like the EPC, but something that actually carries political weight. If topics such as EU enlargement remain untouched in EPC debates — and leaders have made it very clear that they will — then the EPC mainly covers foreign policy matters, i.e., common foreign and security policy (CFSP), to use EU language.
+
+However, we can list many structures, institutions and organisations here that already deal with these, both at EU and at international level. For instance, take the EU's European External Action Service (EEAS), also known as the diplomatic service of the EU, the European Council, the Foreign Affairs Council (FAC) meetings with EU foreign ministers, or the Council of the European Union, which also play a key role in CFSP decisions. And at the international level, there are many platforms where the EU can discuss with precisely these like-minded countries: take the UN, for instance, and its leaders' meeting within the UN General Assembly, summits such as the G7 or the G20, NATO, or the Organisation for Security and Co-operation in Europe (OSCE). Isn't the EPC merely duplicating what already exists?
+
+You are probably just as confused by the complexity of all these simultaneous formats as I am. And I do think that is perfectly reasonable. Even within the EU, it is not entirely clear to the general public who decides what in CFSP, due to the EU's various bodies that have a say, as described above. Looking at the international level, it seems that we are in no shortage of organisations where such topics can be discussed either. As a consequence, it might even be counter-productive to the credibility of the EU in CFSP if there is a need to establish new summits with new names for every new crisis that arises, as was the case here with the war in Ukraine.
+
+## What Is the EPC's Future?
+
+If the EPC is really redundant, though, then why does it still exist? Some policy analysts and EU journalists argue that the only reason the EPC has not died out yet is that Europe is worried about the fragile security situation on its continent to such an extent that leaders keep attending the EPC. There was even the idea to give the EPC a budget and a secretariat. Nevertheless, this idea was rejected immediately by leaders insisting that it must remain completely informal.
+
+Academic researchers argue that what the EU needs is not another purely symbolic summit, but a group of only the countries that explicitly and outspokenly condemn Russia's aggression against Ukraine and authoritarian regimes — because this does not necessarily apply to all countries attending the summits.
+
+Personally, I think we can agree that the EPC is a great opportunity for leaders to make public announcements and push issues on the political agenda. The question that remains, however, is whether leaders really need a further platform for these, in addition to the formats that already exist at EU and international level.
+What is certain is that it is not a good idea to create a new summit, community or organisation for every new challenge that comes up in international politics. In addition to the complexity this adds, new formats will also always raise new questions. In this case, for example, there is a delicate balance to strike between the EPC and similar, already existing organisations, such as the UN and NATO. In a context where the White House has systematically raised doubts about its commitment to NATO goals and values, for example, what should be the relationship between the EPC and NATO? In a world that is characterised by complex geopolitical challenges, the last thing we need is a landscape of complex European and international summits that are still trying to figure out who does what and who speaks for whom.
